@@ -34,6 +34,7 @@
 
   ### OS
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=MacOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/KaliLinux-557C94?style=flat-square&logo=KaliLinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
