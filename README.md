@@ -1,4 +1,4 @@
-</br><div align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjanger&show_icons=true&theme=)](https://github.com/anuraghazra/github-readme-stats)</div><div align="center"><div>
+</br><div align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=devjanger\&rank_icon=github)</div>
+</br><div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjanger\&layout=compact)</div>
+</br><div align="center">https://devjanger.github.io/WaSans/WA/sans.html</div>
 
- 
-https://devjanger.github.io/WaSans/WA/sans.html
